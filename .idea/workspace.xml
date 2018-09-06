@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a01b3ef-1b53-4126-a527-e1623dfb6e96" name="Default" comment="" />
+    <list default="true" id="7a01b3ef-1b53-4126-a527-e1623dfb6e96" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signup/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/signup/signup.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +17,8 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="399" column="125" selection-start-line="399" selection-start-column="125" selection-end-line="399" selection-end-column="125" />
+            <state relative-caret-position="-924">
+              <caret line="306" column="97" selection-start-line="306" selection-start-column="97" selection-end-line="306" selection-end-column="97" />
             </state>
           </provider>
         </entry>
@@ -23,8 +26,8 @@
       <file leaf-file-name="signup.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/signup/signup.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-135">
-              <caret line="33" column="58" lean-forward="true" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
+            <state relative-caret-position="391">
+              <caret line="45" column="43" lean-forward="true" selection-start-line="45" selection-start-column="43" selection-end-line="45" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -46,9 +49,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/signup.html" />
+        <option value="$PROJECT_DIR$/signup/.gitignore" />
+        <option value="$PROJECT_DIR$/signup/signup.html" />
         <option value="$PROJECT_DIR$/home.html" />
         <option value="$PROJECT_DIR$/signup/signup.html" />
-        <option value="$PROJECT_DIR$/signup/.gitignore" />
       </list>
     </option>
   </component>
@@ -63,9 +67,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="19" />
-    <option name="y" value="59" />
-    <option name="width" value="1133" />
-    <option name="height" value="629" />
+    <option name="y" value="158" />
+    <option name="width" value="1738" />
+    <option name="height" value="1010" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -124,7 +128,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="19" y="59" width="1133" height="629" extended-state="0" />
+    <frame x="19" y="158" width="1738" height="1010" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -132,8 +137,8 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.30810812" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17652251" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.33226496" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1150748" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="SciView" />
@@ -163,13 +168,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="399" column="125" selection-start-line="399" selection-start-column="125" selection-end-line="399" selection-end-column="125" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/signup/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="254">
@@ -177,10 +175,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-924">
+          <caret line="306" column="97" selection-start-line="306" selection-start-column="97" selection-end-line="306" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/signup/signup.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-135">
-          <caret line="33" column="58" lean-forward="true" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
+        <state relative-caret-position="391">
+          <caret line="45" column="43" lean-forward="true" selection-start-line="45" selection-start-column="43" selection-end-line="45" selection-end-column="43" />
         </state>
       </provider>
     </entry>
