@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7a01b3ef-1b53-4126-a527-e1623dfb6e96" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/signup/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/signup/signup.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,8 +16,8 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="440" column="123" selection-start-line="440" selection-start-column="123" selection-end-line="440" selection-end-column="123" />
+            <state relative-caret-position="246">
+              <caret line="156" column="87" selection-start-line="156" selection-start-column="87" selection-end-line="156" selection-end-column="87" />
             </state>
           </provider>
         </entry>
@@ -187,8 +186,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="440" column="123" selection-start-line="440" selection-start-column="123" selection-end-line="440" selection-end-column="123" />
+        <state relative-caret-position="246">
+          <caret line="156" column="87" selection-start-line="156" selection-start-column="87" selection-end-line="156" selection-end-column="87" />
         </state>
       </provider>
     </entry>
